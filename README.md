@@ -14,11 +14,10 @@ Database: PostgreSQL
 Authentication: JWT (JSON Web Tokens)
 Install Dependencies
 Frontend:
-
 cd client
 npm install
-Backend:
 
+Backend:
 npm install
 How to Run
 To start the frontend server, run:
@@ -26,7 +25,6 @@ To start the frontend server, run:
 cd client
 npm start
 To start the backend server, run:
-
 nodemon server.js
 Usage
 Bus Management:
