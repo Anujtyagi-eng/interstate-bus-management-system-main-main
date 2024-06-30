@@ -1,0 +1,66 @@
+.layout-parent{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    padding: 1rem;
+    height: 100vh;
+    gap: 10px;
+}
+.body{
+    width: 100%;
+}
+.header{
+    box-shadow: 0 0 2px 0 rgba(0,0,0,0.5);
+    width: 100%;
+    padding: 20px;
+}
+.sidebar{
+    /* width: 300px; */
+    background-color: var(--primary);
+    flex-direction: column;
+    border-radius: 5px;
+    display: flex;
+    justify-content: start;
+    padding: 20px 30px;
+    
+}
+.menu{
+    margin-top: 125px;
+}
+.role{
+    color: white;
+}
+.logo{
+    color: white;
+}
+.menuItem{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 1rem;
+    padding: 5px 15px;
+    width: 100%;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.active-menuItem{
+    border: 1px solid white ;
+    border-radius: 5px;
+}
+.menuItem i{
+    margin-right: 10px;
+    color: white;
+    font-size: 1.2rem;
+
+}
+.menuItem span{
+    color: white;
+    font-size: 1.2rem;
+
+}
+.content{
+    padding: 10px 0px;
+    overflow-y: scroll !important;
+    overflow-x: hidden !important;
+    height: 85vh;
+}

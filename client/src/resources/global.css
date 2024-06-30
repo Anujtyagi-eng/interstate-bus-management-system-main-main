@@ -1,0 +1,91 @@
+/* Height and Width */
+.h-screen{
+    height: 100vh;
+}
+.w-400{
+    width: 400px;
+}
+/* inputs */
+input,select{
+    height: 2rem;
+    border: 2px solid grey;
+    width: 100%;
+    padding-left: 1rem;
+}
+/* card */
+.card{
+    border: 1px solid grey;
+    box-shadow: 0 0 2px grey;
+    border-radius: 0 !important;
+}
+/* text-sizes */
+.text-2xl{
+    font-size: 2rem !important;
+}
+.text-xl{
+    font-size: 1.5rem !important;
+}
+.text-lg{
+    font-size: 1.25rem !important;
+}
+.text-md{
+    font-size: 1rem !important;
+}
+.underline{
+    text-decoration: underline !important;
+    cursor: pointer;
+}
+/* Buttons */
+.primary-btn{
+    background-color: var(--primary);
+    color: black;
+    padding: 0.5rem 1rem;
+    border: none;
+    cursor: pointer;
+}
+.secondary-btn{
+    background-color: var(--secondary);
+    color: black;
+    padding: 0.5rem 1rem;
+    border: none;
+    cursor: pointer;
+}
+.disabled-btn{
+    background-color: gray;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    cursor: not-allowed;
+}
+/* anchor */
+a{
+    text-decoration: none !important;
+    color : var(--primary);
+}
+
+/* Loader */
+.spinner-parent{
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.392);
+    z-index: 100000;
+}
+.spinner-grow{
+    color: white !important;
+    height: 10rem !important;
+    width: 10rem !important;
+}
+i{
+    cursor: pointer;
+    font-size: 25px !important;
+}
+h1,p{
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+}
