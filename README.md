@@ -47,7 +47,7 @@ Manage customers block or delete as needed.
 **_Contributors:_**
 
 
-**Anuj Tyagi**
+**Anuj Tyagi** &
 **Shreyansh soni**
 
 
