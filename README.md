@@ -36,6 +36,7 @@ Book tickets, view booking history, or cancel bookings.
 Customer Management:
 
 Manage customers block or delete as needed.
-Contributors
-Shreyansh Soni
+Contributors:
 Anuj Tyagi
+Shreyansh soni
+
