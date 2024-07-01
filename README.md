@@ -44,11 +44,11 @@ Customer Management:
 
 
 Manage customers block or delete as needed.
-Contributors:
+**_Contributors:_**
 
 
-Anuj Tyagi
-Shreyansh soni
+**Anuj Tyagi**
+**Shreyansh soni**
 
 
 
