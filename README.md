@@ -22,6 +22,8 @@ npm install
 How to Run
 To start the frontend server, run:
 
+
+
 cd client
 npm start
 To start the backend server, run:
@@ -29,14 +31,26 @@ nodemon server.js
 Usage
 Bus Management:
 
+
+
 Add, update, or remove bus information as needed.
 Ticket Booking:
+
+
 
 Book tickets, view booking history, or cancel bookings.
 Customer Management:
 
+
+
 Manage customers block or delete as needed.
 Contributors:
+
+
 Anuj Tyagi
 Shreyansh soni
+
+
+
+
 
